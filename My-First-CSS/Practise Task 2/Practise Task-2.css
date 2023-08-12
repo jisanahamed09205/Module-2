@@ -1,0 +1,16 @@
+*{
+    color:rgb(50, 205, 63);
+}
+p{
+    text-align:right;
+    font-size: 20px;
+}
+
+#font{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 25px;
+    font-style: italic;
+}
+/* ul{
+    font-style: italic;
+} */

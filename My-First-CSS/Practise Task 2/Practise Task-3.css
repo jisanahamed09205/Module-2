@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#bg{
+    background-color: darkgray;
+}
+.boder{
+    border: 5px solid red;
+}
